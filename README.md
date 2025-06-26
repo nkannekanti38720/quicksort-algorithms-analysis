@@ -25,7 +25,7 @@ To get started with the project:
 Clone this repository to your local machine:
 
 bash
-git clone https://github.com/your-username/quicksort-algorithms-analysis.git
+git clone https:[//github.com/your-username/quicksort-algorithms-analysis.git](https://github.com/nkannekanti38720/quicksort-algorithms-analysis)
 Navigate to the project directory:
 
 bash
